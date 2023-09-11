@@ -30,7 +30,10 @@ nav ul li a {
 
 section {
   margin-bottom: 20px;
-  text-align: center;
+}
+
+section contact {
+   text-align: center;
 }
 
 footer {
