@@ -13,7 +13,7 @@
 
 nav{
   display: flex;
-  width: 50%;
+  width: 84%;
   margin: auto;
   padding: 20px 0;
   align-items: center;
@@ -23,7 +23,7 @@ nav{
 nav ul li{
   display: iniline-block;
   list-style: none;
-  margin: 10px 5px;
+  margin: 3px 5px;
   
 }
 
