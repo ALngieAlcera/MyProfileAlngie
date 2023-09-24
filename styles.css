@@ -20,18 +20,18 @@ nav{
   justify-content: space-between;
 }
 
-nav header ul li{
+nav ul li{
   display: iniline-block;
   list-style: none;
   margin: 10px 20px;
 }
 
-nav header ul li a{
+nav ul li a{
   text-decoration: none;
   color: #FFFFFF;
   font-weight: bold;
 }
 
-nav header ul li a:hover{
+nav ul li a:hover{
   color: #5e17eb;
 }
